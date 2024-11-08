@@ -54,10 +54,9 @@ Here’s a look at some of my favorite projects. Click the project titles to exp
 ---
 
 #### 📱 [Milkify](https://github.com/rahulw/Milkify)
+![Frame 1 (3)](https://github.com/user-attachments/assets/4e56f064-5e14-4a2b-bf3a-effd9ae05eac)
+![Frame 2 (1)](https://github.com/user-attachments/assets/a8137cb8-47e0-4ead-b64b-121ad079e255)
 *Milk Management App for Efficient Dairy Operations*
-![Frame 1 (1)](https://github.com/user-attachments/assets/94599e7d-072a-4648-9e56-790e33979023)
-![Frame 2](https://github.com/user-attachments/assets/1f2e3dca-bd44-4f54-bc65-b06be42ea406)
-
 - **Description**: A mobile app designed to streamline dairy operations by managing milk collection, distribution, and customer data.
 - **Tech Stack**: Kotlin, Firebase, SQLite
 - **Features**:
