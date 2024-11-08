@@ -52,18 +52,39 @@ Welcome to my GitHub profile! I specialize in building high-quality mobile appli
 Here’s a look at some of my favorite projects. Click the project titles to explore the code, features, and implementation details!
 
 ---
+#### 🥛 [Milkify - Simplified Milk Sales & Collection Management](https://github.com/SnappeR4/milkify.git)
 
-#### 📱 [Milkify](https://github.com/rahulw/Milkify)
+Milkify is a mobile app designed for milk vendors to streamline daily sales and collections. With features for tracking products, managing members, and generating reports, it’s ideal for small-scale dairy operations.
+
+### 📱 Tech Stack
+- **Flutter** (GetX for state management)
+- **SQLite** (offline data storage)
+- **QR Code Integration** (for member search and transactions)
+
+### Key Features
+
+- **Product Management**  
+  Track and set prices for Cow, Buffalo, and Mixed milk.
+
+- **Member Management with QR Codes**  
+  Add members, assign QR codes, and manage details like milk type and purchase history.
+
+- **QR Code Search & Auto Collection**  
+  Scan or search by name, ID, or mobile number for fast transactions.
+
+- **Sales & Payments**  
+  Record sales, adjust quantities, and manage payment collections easily.
+
+- **Reports & Offline Access**  
+  Access sales and payment reports offline, with data stored safely in external storage.
+
+With **Milkify**, dairy operations become more efficient and error-free, helping you save time and keep accurate records — all offline!
+
+---
+
+### Screenshots
 ![Frame 1 (3)](https://github.com/user-attachments/assets/4e56f064-5e14-4a2b-bf3a-effd9ae05eac)
 ![Frame 2 (1)](https://github.com/user-attachments/assets/a8137cb8-47e0-4ead-b64b-121ad079e255)
-
-*Milk Management App for Efficient Dairy Operations*
-- **Description**: A mobile app designed to streamline dairy operations by managing milk collection, distribution, and customer data.
-- **Tech Stack**: Kotlin, Firebase, SQLite
-- **Features**:
-  - Daily milk entry and billing
-  - Customer management and history tracking
-  - Payment reminders with push notifications
 
 ---
 
