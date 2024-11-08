@@ -138,6 +138,7 @@ The **Balaji Banking App** is an advanced solution for managing daily collection
   Send reminders and updates to customers via SMS or WhatsApp for timely communication.
 
 The **Balaji Banking App** elevates collection management with its commitment to speed, simplicity, and multifunctionality, making it an all-in-one tool for daily collections.
+
 **Balaji Banking App** - The ideal solution for fast, simple, and effective daily collection management.
 
 ---
