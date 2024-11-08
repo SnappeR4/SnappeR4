@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I specialize in building high-quality mobile appli
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Project Portfolio
 
 Here’s a look at some of my favorite projects. Click the project titles to explore the code, features, and implementation details!
 
@@ -107,6 +107,41 @@ With the **E-Passbook** app, users can easily monitor their finances, maintain t
 
 ---
 
+#### 🏦 Balaji Banking App - Streamlined Daily Collection Management
+
+The **Balaji Banking App** is an advanced solution for managing daily collections, designed to be fast, user-friendly, and low-maintenance, ensuring seamless operations for users. With features like Bluetooth printing, SMS and WhatsApp messaging, and RESTful API integration, this app provides a comprehensive toolkit for efficient collection management.
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.pcepl.balajibankingapp&hl=en)
+
+### 📱 Tech Stack
+- **Android (Java)** - Core app development
+- **SQLite** - Local data storage for offline access
+- **Retrofit** - RESTful API integration for backend communication
+- **Bluetooth Printer Integration** - Supports printing collection receipts on compatible devices
+- **SMS and WhatsApp Messaging** - Send collection reminders and notifications
+
+### Key Features
+
+- **Effortless Daily Collection Management**  
+  A simple, efficient system to track and record daily collections with minimal effort.
+
+- **User-Friendly Interface**  
+  Navigate a clean, intuitive design that makes managing collections easy and quick.
+
+- **RESTful API Integration**  
+  Communicates with backend services via Retrofit for secure and efficient data handling.
+
+- **Bluetooth Printer Support**  
+  Print receipts directly from the app using Bluetooth-enabled printers.
+
+- **SMS & WhatsApp Notifications**  
+  Send reminders and updates to customers via SMS or WhatsApp for timely communication.
+
+The **Balaji Banking App** elevates collection management with its commitment to speed, simplicity, and multifunctionality, making it an all-in-one tool for daily collections.
+**Balaji Banking App** - The ideal solution for fast, simple, and effective daily collection management.
+
+---
+
 #### 🔋 [InverterHub](https://github.com/rahulw/InverterHub)
 *Inverter Management System for Smart Power Monitoring*
 
@@ -118,20 +153,6 @@ With the **E-Passbook** app, users can easily monitor their finances, maintain t
   - Real-time battery status monitoring
   - Automatic maintenance scheduling
   - Usage history and alerts
-
----
-
-#### 🏦 [Balaji Banking](https://github.com/rahulw/BalajiBanking)
-*Mobile Banking Solution for Transactions and Account Management*
-
-![Balaji Banking Screenshot](https://placehold.co/600x400) <!-- Replace with actual screenshot link -->
-
-- **Description**: A secure and user-friendly banking app for seamless transactions and account management.
-- **Tech Stack**: Kotlin, SQLite, Firebase Authentication
-- **Features**:
-  - Account management with balance tracking
-  - Fund transfers and mini statements
-  - Authentication with Firebase for secure access
 
 ---
 
