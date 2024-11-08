@@ -116,11 +116,6 @@ With **Milkify**, dairy operations become more efficient and error-free, helping
 
 ---
 
-#### 📓 [E-Passbook](https://github.com/rahulw/EPassbook)
-*Digital Passbook for Easy Transaction Record Management*
-
-![E-Passbook Screenshot](https://placehold.co/600x400) <!-- Replace with actual screenshot link -->
-
 #### 📓 [E-Passbook - Digital Passbook for Financial Transactions](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
 
 The **E-Passbook** app allows users to track and manage their financial transactions digitally. This app provides a secure and convenient way to view balance history, manage account details, and monitor transactions in real time. [Download on Google Play](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
