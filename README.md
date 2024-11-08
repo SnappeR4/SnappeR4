@@ -107,7 +107,7 @@ With the **E-Passbook** app, users can easily monitor their finances, maintain t
 
 ---
 
-#### 🏦 Balaji Banking App - Streamlined Daily Collection Management
+#### 🏦 [Balaji Banking App - Streamlined Daily Collection Management](https://play.google.com/store/apps/details?id=com.pcepl.balajibankingapp&hl=en)
 
 The **Balaji Banking App** is an advanced solution for managing daily collections, designed to be fast, user-friendly, and low-maintenance, ensuring seamless operations for users. With features like Bluetooth printing, SMS and WhatsApp messaging, and RESTful API integration, this app provides a comprehensive toolkit for efficient collection management.
 
