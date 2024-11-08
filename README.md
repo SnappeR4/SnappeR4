@@ -143,20 +143,6 @@ The **Balaji Banking App** elevates collection management with its commitment to
 
 ---
 
-#### 🔋 [InverterHub](https://github.com/rahulw/InverterHub)
-*Inverter Management System for Smart Power Monitoring*
-
-![InverterHub Screenshot](https://placehold.co/600x400) <!-- Replace with actual screenshot link -->
-
-- **Description**: A mobile app for real-time inverter performance tracking and maintenance scheduling.
-- **Tech Stack**: Java, Firebase
-- **Features**:
-  - Real-time battery status monitoring
-  - Automatic maintenance scheduling
-  - Usage history and alerts
-
----
-
 #### 🎮 [TicTacToe Game](https://github.com/SnappeR4/TicTacToe.git)
 *Classic TicTacToe Game with a Twist*
 
