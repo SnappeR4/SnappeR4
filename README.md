@@ -88,6 +88,25 @@ With **Milkify**, dairy operations become more efficient and error-free, helping
 
 ---
 
+#### 📓 [E-Passbook - Digital Passbook for Financial Transactions](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
+
+The **E-Passbook** app allows users to track and manage their financial transactions digitally. This app provides a secure and convenient way to view balance history, manage account details, and monitor transactions in real time. [Download on Google Play](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
+
+### Key Features
+
+- **Balance Tracking**  
+  Access real-time account balance and transaction history.
+
+- **Transaction Management**  
+  View deposits, withdrawals, and transfers with detailed information.
+
+- **Secure Login with API Authentication**  
+  Ensure user data is protected with secure authentication and access control.
+
+With the **E-Passbook** app, users can easily monitor their finances, maintain transaction records, and manage accounts all in one secure app.
+
+---
+
 #### 🔋 [InverterHub](https://github.com/rahulw/InverterHub)
 *Inverter Management System for Smart Power Monitoring*
 
@@ -113,25 +132,6 @@ With **Milkify**, dairy operations become more efficient and error-free, helping
   - Account management with balance tracking
   - Fund transfers and mini statements
   - Authentication with Firebase for secure access
-
----
-
-#### 📓 [E-Passbook - Digital Passbook for Financial Transactions](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
-
-The **E-Passbook** app allows users to track and manage their financial transactions digitally. This app provides a secure and convenient way to view balance history, manage account details, and monitor transactions in real time. [Download on Google Play](https://play.google.com/store/apps/details?id=com.pce.balajiepassbook&hl=en)
-
-### Key Features
-
-- **Balance Tracking**  
-  Access real-time account balance and transaction history.
-
-- **Transaction Management**  
-  View deposits, withdrawals, and transfers with detailed information.
-
-- **Secure Login with API Authentication**  
-  Ensure user data is protected with secure authentication and access control.
-
-With the **E-Passbook** app, users can easily monitor their finances, maintain transaction records, and manage accounts all in one secure app.
 
 ---
 
