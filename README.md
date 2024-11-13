@@ -1,7 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/mobile-app-development-horizontal-web-banner_541075-1559.jpg?w=740)
 <h1 align="center">Hi 👋, I'm Rahul Waghmare</h1>
-**Mobile App Developer | Android (Java, Kotlin) & Flutter Enthusiast**
-
+<h2 align="center">Mobile App Developer | Android (Java, Kotlin) & Flutter Enthusiast</h2>
 Welcome to my GitHub profile! I specialize in building high-quality mobile applications with a focus on user experience and seamless functionality. Below you'll find a selection of my projects, core skills, and achievements.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
