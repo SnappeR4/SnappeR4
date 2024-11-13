@@ -175,7 +175,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SnappeR4/SnappeR4/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -185,10 +185,10 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-SnappeR4.vercel.app/?user=SnappeR4&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-SnappeR4.vercel.app/api?username=SnappeR4&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-SnappeR4.vercel.app/api/top-langs/?username=SnappeR4&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -196,12 +196,5 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <hr/>
 
 <br/>
-### 📈 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulw&show_icons=true&theme=radical)
----
-
-### 🌐 Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/rahul-waghmare-3a3217212)**
 
 Thank you for visiting my GitHub profile! I'm always open to new opportunities and collaboration. Let's build something amazing together!
