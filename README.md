@@ -170,9 +170,9 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Hints and interactive feedback for player guidance
 
 -->
-
+<br>
+<hr>
 <div align="center">
-    <br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <img src="https://github.com/user-attachments/assets/74ea9684-d0ec-4c22-ae48-20950e74da02" alt="streak stats"/>
@@ -181,7 +181,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SnappeR4" alt="streak stats"/>
-    <br>
 </div>
-
+<br>
+<hr>
 Thank you for visiting my GitHub profile! I'm always open to new opportunities and collaboration. Let's build something amazing together!
