@@ -156,22 +156,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Single and two-player modes
   - Customizable game themes
   - Score tracking and reset functionality
-<!--
-#### 🔍 [Find the Difference Game](https://github.com/rahulw/FindTheDifferenceGame)
-*Puzzle Game to Challenge Observation Skills*
-
-![Find the Difference Game Screenshot](https://placehold.co/600x400)
-
-- **Description**: A "Find the Difference" puzzle game that challenges players to spot differences between images within a time limit.
-- **Tech Stack**: Flutter, Dart
-- **Features**:
-  - Multiple levels with increasing difficulty
-  - Time-bound challenges and score tracking
-  - Hints and interactive feedback for player guidance
-
--->
 <br>
-<hr>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -183,5 +168,4 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SnappeR4" alt="streak stats"/>
 </div>
 <br>
-<hr>
 Thank you for visiting my GitHub profile! I'm always open to new opportunities and collaboration. Let's build something amazing together!
