@@ -162,7 +162,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 #### 🔍 [Find the Difference Game](https://github.com/rahulw/FindTheDifferenceGame)
 *Puzzle Game to Challenge Observation Skills*
 
-![Find the Difference Game Screenshot](https://placehold.co/600x400) <!-- Replace with actual screenshot link -->
+![Find the Difference Game Screenshot](https://placehold.co/600x400)
 
 - **Description**: A "Find the Difference" puzzle game that challenges players to spot differences between images within a time limit.
 - **Tech Stack**: Flutter, Dart
