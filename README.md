@@ -156,8 +156,6 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Single and two-player modes
   - Customizable game themes
   - Score tracking and reset functionality
-
----
 <!--
 #### 🔍 [Find the Difference Game](https://github.com/rahulw/FindTheDifferenceGame)
 *Puzzle Game to Challenge Observation Skills*
@@ -172,6 +170,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Hints and interactive feedback for player guidance
 
 -->
+<br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -182,7 +181,4 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <div align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SnappeR4" alt="streak stats"/>
 </div>
-<hr/>
-<br/>
-
 Thank you for visiting my GitHub profile! I'm always open to new opportunities and collaboration. Let's build something amazing together!
