@@ -175,8 +175,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SnappeR4/SnappeR4/output/github-contribution-grid-snake.svg" />
-  
+  ![github-user-contribution](https://github.com/user-attachments/assets/74ea9684-d0ec-4c22-ae48-20950e74da02)
   <br/><br/><br/>
 </div>
 
