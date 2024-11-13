@@ -158,7 +158,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Score tracking and reset functionality
 
 ---
-
+<!--
 #### 🔍 [Find the Difference Game](https://github.com/rahulw/FindTheDifferenceGame)
 *Puzzle Game to Challenge Observation Skills*
 
@@ -171,7 +171,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
   - Time-bound challenges and score tracking
   - Hints and interactive feedback for player guidance
 
----
+-->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
