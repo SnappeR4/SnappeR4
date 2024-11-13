@@ -182,7 +182,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SnappeR4" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SnappeR4" alt="streak stats"/>
 </div>
 <hr/>
 <br/>
