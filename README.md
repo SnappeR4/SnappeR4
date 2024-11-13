@@ -1,5 +1,5 @@
-<!--![MasterHead](https://img.freepik.com/premium-vector/mobile-app-development-horizontal-web-banner_541075-1559.jpg?w=740)
-<h1 align="center">Hi 👋, I'm Rahul Waghmare</h1>-->
+![MasterHead](https://github.com/user-attachments/assets/8b99cf63-96a6-4875-972b-0977c24b4de3)
+<!--<h1 align="center">Hi 👋, I'm Rahul Waghmare</h1>-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Waghmare!;" />
 </h1>
