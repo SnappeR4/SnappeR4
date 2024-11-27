@@ -145,7 +145,21 @@ The **Balaji Banking App** elevates collection management with its commitment to
 
 ---
 
-#### 🎮 [TicTacToe Game](https://github.com/SnappeR4/TicTacToe.git)
+#### 📈 [SIP Calculator App](https://github.com/SnappeR4/sip_calculator.git)
+*Effortless Investment Planning*
+
+![tictactoe](https://github.com/user-attachments/assets/3e3de683-12e3-4a76-a7cb-fe91b2f76590)
+
+- **Description**:  A user-friendly SIP Calculator app to help you estimate maturity amounts for systematic investment plans with detailed charts and insights.
+- **Tech Stack**: Flutter, GetX (MVVM architecture)
+- **Features**:
+  - Easily enter monthly investment, tenure, and interest rate.
+  - Professional UI optimized for mobile screens
+  - Immediate display of maturity amount upon input.
+  - Works seamlessly without internet connectivity.
+---
+
+#### 🎮 [TicTacToe Game](https://github.com/SnappeR4/TicTacToeGame.git)
 *Classic TicTacToe Game with a Twist*
 
 ![tictactoe](https://github.com/user-attachments/assets/3e3de683-12e3-4a76-a7cb-fe91b2f76590)
