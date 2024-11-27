@@ -161,7 +161,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 #### 🎮 [TicTacToe Game](https://github.com/SnappeR4/TicTacToeGame.git)
 *Classic TicTacToe Game with a Twist*
 
-![tictactoe](https://github.com/user-attachments/assets/3e3de683-12e3-4a76-a7cb-fe91b2f76590)
+![tictactoe](https://github.com/user-attachments/assets/d7d7ceb8-6d47-4334-a4a9-518e4579b761)
 
 - **Description**: A fun and interactive TicTacToe game with options to play against AI or friends.
 - **Tech Stack**: Flutter
