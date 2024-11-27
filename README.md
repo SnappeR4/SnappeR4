@@ -148,6 +148,7 @@ The **Balaji Banking App** elevates collection management with its commitment to
 #### 📈 [SIP Calculator App](https://github.com/SnappeR4/sip_calculator.git)
 *Effortless Investment Planning*
 
+![Frame 3 (2)](https://github.com/user-attachments/assets/cfc647ef-b4f7-4468-8ad1-25f3cb1c0eea)
 
 - **Description**:  A user-friendly SIP Calculator app to help you estimate maturity amounts for systematic investment plans with detailed charts and insights.
 - **Tech Stack**: Flutter, GetX (MVVM architecture)
